@@ -1,0 +1,12 @@
+What is MLflow ?
+
+1. mlflow tracking
+2. mlflow projects
+3. mlflow models
+4. model registry
+
+1. prepare working environment 
+VSC code install
+python 3.10
+
+
